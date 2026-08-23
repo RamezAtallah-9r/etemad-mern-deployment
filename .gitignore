@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+server.env
+server/uploads/
+*.log
+client/.env.local
+client/.env.*.local
+client/dist/
